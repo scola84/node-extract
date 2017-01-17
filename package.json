@@ -1,0 +1,10 @@
+{
+  "name": "@scola/extract",
+  "version": "0.0.0",
+  "description": "Extract Helper",
+  "repository": "github:scola84/node-extract",
+  "author": "M.C. van den Boogaart <scola@kvdb.name>",
+  "license": "MIT",
+  "main": "./index.js",
+  "jsnext:main": "./index.js"
+}

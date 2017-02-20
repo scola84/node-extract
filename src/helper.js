@@ -1,4 +1,4 @@
-export default function helper(stream, callback) {
+export default function helper(stream, callback = () => {}) {
   let data = '';
 
   stream.once('error', (error) => {

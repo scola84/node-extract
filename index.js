@@ -1,2 +1,7 @@
-export { default as filter } from './src/filter';
-export { default as helper } from './src/helper';
+import filter from './src/filter';
+import helper from './src/helper';
+
+export {
+  filter,
+  helper
+};
